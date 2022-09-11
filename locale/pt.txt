@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour-Virtual Básico
+
+### Title
+tour.name = RMV Metalúrgica EIRELI ME
+
+## Media
+
+### Subtitle
+panorama_25F763B0_2E45_3C92_41C6_255D43D51B94.subtitle = by Márcio Magrin
+panorama_27AA6E8D_2E45_4773_41BE_FBCB752E0A55.subtitle = by Márcio Magrin
+
+### Title
+panorama_25F763B0_2E45_3C92_41C6_255D43D51B94.label = RMV Metalúrgica EIRELI ME
+panorama_27AA6E8D_2E45_4773_41BE_FBCB752E0A55.label = RMV Metalúrgica EIRELI ME
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_231C8FBA_2E47_4491_41BE_DE993D660AE4.toolTip = Vista Aérea Drone
+HotspotPanoramaOverlayArea_3A5A2144_2E7F_3DF1_4193_900B544948D2.toolTip = Foto Fachada
+HotspotPanoramaOverlayArea_3D299011_2E4D_3B93_4192_F33E282886D2.toolTip = RMV Metalúrgica EIRELI ME
+HotspotPanoramaOverlayArea_3D6DB492_2E4F_4491_41C2_735DCE11F810.toolTip = RMV Metalúrgica EIRELI ME
